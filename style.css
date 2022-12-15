@@ -1,0 +1,29 @@
+
+
+.red{
+    background-color: red;
+    width: 500px;
+    height: 500px;
+    margin-bottom: 15px;
+    
+}
+
+.zut{
+    background-color: yellow;
+    width: 500px;
+    height: 500px;
+    display: inline-block;
+    margin-right: 15px;
+
+
+}
+
+.green{
+    background-color: green;
+    width: 500px;
+    height: 500px;
+    float: right;
+    position: relative;
+    left: -800px;
+    overflow: scroll;
+}
